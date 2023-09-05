@@ -1,0 +1,15 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-TARGETDURATION:6
+#EXT-X-MEDIA-SEQUENCE:0
+#EXTINF:5.005000,
+https://sss11.hlss1.net/cdn/down/bcf0c480eba779c94d1cdf896a1f2fee/Video/720p/720p_000.aaa
+#EXTINF:5.005000,
+https://sss11.hlss2.net/cdn/down/bcf0c480eba779c94d1cdf896a1f2fee/Video/720p/720p_001.aaa
+#EXTINF:5.005000,
+https://sss11.hlss3.net/cdn/down/bcf0c480eba779c94d1cdf896a1f2fee/Video/720p/720p_002.aaa
+#EXTINF:5.005000,
+https://sss11.hlss4.net/cdn/down/bcf0c480eba779c94d1cdf896a1f2fee/Video/720p/720p_003.aaa
+#EXTINF:4.938267,
+https://sss11.hlss5.net/cdn/down/bcf0c480eba779c94d1cdf896a1f2fee/Video/720p/720p_004.aaa
+#EXT-X-ENDLIST
