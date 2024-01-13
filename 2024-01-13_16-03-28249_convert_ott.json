@@ -1,0 +1,44 @@
+[
+    {
+        "name": "",
+        "category": {
+            "name": "KHO PHIM FSHARE",
+            "icon": "https://fshare.uk/fsharephim.php"
+        },
+        "info": {
+            "poster": "",
+            "bg": "",
+            "plot": "",
+            "added": "1705133008"
+        },
+        "seasons": []
+    },
+    {
+        "name": "f",
+        "category": {
+            "name": "KHO PHIM FSHARE",
+            "icon": "https://fshare.uk/fsharephim.php"
+        },
+        "info": {
+            "poster": "f",
+            "bg": "f",
+            "plot": "f",
+            "added": "1705133007"
+        },
+        "seasons": []
+    },
+    {
+        "name": "",
+        "category": {
+            "name": "KHO PHIM FSHARE",
+            "icon": "https://fshare.uk/fsharephim.php"
+        },
+        "info": {
+            "poster": "",
+            "bg": "",
+            "plot": "",
+            "added": "1705133006"
+        },
+        "seasons": []
+    }
+]
